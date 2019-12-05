@@ -1,11 +1,11 @@
 ---
-title: sqli labs的环境搭建
+title: sqlilabs的环境搭建的Bug
 date: 2019-5-2
-tags: sqli labs
+tags: sqlilabs
 
 ---
 
-### 我是在phpstudy下搭建的环境遇到了几个小问题，在网上搜都没有百度到，所以想记录下来。
+> 我是在phpstudy下搭建的环境遇到了几个小问题，在网上搜都没有百度到，所以想记录下来。
 
 **下载**
 
