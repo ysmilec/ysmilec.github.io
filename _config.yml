@@ -6,7 +6,9 @@
 # Site
 title: ysmilec
 subtitle:
-description: Like Life
+description: Like Life 
+- 友链
+> 小路学姐
 author: ysmilec
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -123,7 +125,7 @@ menu:
   about: /about/
   archives: /archives/
   tags: /tags/
-  links: /links/
+  #links: /links/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
