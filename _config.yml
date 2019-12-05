@@ -5,7 +5,7 @@
 
 # Site
 title: ysmilec
-subtitle:
+subtitle: ysmilec' Blog
 description: Like Life
 author: ysmilec
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -13,11 +13,11 @@ language: zh-Hans
 date_format: '%Y-%m-%d'
 avatar: assets/images/avator.jpg
 
-# URL
-## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url:
-baseurl:
-permalink: pretty
+# Information for contacts showed at on the footer
+#
+contact :
+  e-mail : mailto:ychen_cauc@outlook.com
+  Github : https://github.com/ysmilec
 
 # Pagination
 paginate: 10
@@ -35,6 +35,15 @@ paginate: 10
 # Handling Reading
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "README_en.md", "vendor"]
 
+# The search engine. Only support google custom search engine.
+#
+search : 
+  provider : gcse
+  
+    # Your Google custom search engine ID
+  #
+  gcse :
+    cx : 004255214185073801838:_icnlls8kds
 # Separator
 #excerpt_separator: <!-- more -->
 
