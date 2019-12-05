@@ -130,7 +130,7 @@ menu:
   home: /
   categories: /categories/
   about: /about/
-  archives: /archives/
+  #archives: /archives/
   tags: /tags/
   #links: /links/
   #sitemap: /sitemap.xml
