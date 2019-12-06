@@ -2,6 +2,7 @@
 title: sqlilabs的环境搭建的Bug
 date: 2019-5-2
 tags: sqlilabs
+categories: sqlilabs
 
 ---
 
